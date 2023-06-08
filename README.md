@@ -12,8 +12,7 @@ We are forcing SSAO to be enabled in this project because we want to use traditi
 ### Example Level
 [![](https://img.youtube.com/vi/G-_1xHfr3_E/0.jpg)](https://www.youtube.com/watch?v=G-_1xHfr3_E)
 
-### Lyraでの使用例 
-Example of use with Lyra
+### Example of use with Lyra
 [![](https://img.youtube.com/vi/NJjwrQialp8/0.jpg)](https://www.youtube.com/watch?v=NJjwrQialp8)
 
 # Download
