@@ -14,7 +14,7 @@ We are forcing SSAO to be enabled in this project because we want to use traditi
 
 ### Lyraでの使用例 
 Example of use with Lyra
-[![](https://img.youtube.com/vi/NJjwrQialp8&t=111s/0.jpg)](https://www.youtube.com/watch?v=NJjwrQialp8&t=111s)
+[![](https://img.youtube.com/vi/NJjwrQialp8/0.jpg)](https://www.youtube.com/watch?v=NJjwrQialp8)
 
 # Download
 プロジェクトファイルをそのままアップロードしています。そのまま全体をダウンロードするか、必要に応じてContent/3Dnchuフォルダからデータを抽出してください。<br>
