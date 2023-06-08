@@ -23,7 +23,7 @@ Project files are uploaded as is. Download the entire file as is, or extract the
 このような資産の開発を支援したい場合は、寄付をお願いします。<br>
 Gumroadページで販売中です<br>
 If you would like to support the development of such an asset, please make a donation.<br>
-Gumroad page will be available soon!<br>
+Now on sale on our Gumroad page!<br>
 [Gumroad](https://yamato3d.gumroad.com/l/StylizedPP-UE5)<br>
 
 ご要望やお問い合わせはこちらまでお願いします。<br>
