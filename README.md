@@ -19,6 +19,9 @@ https://3dnchu.com/archives/lucian-lumenssao/
 ### Example of use with Lyra
 [![](https://img.youtube.com/vi/NJjwrQialp8/0.jpg)](https://www.youtube.com/watch?v=NJjwrQialp8)
 
+### Example of Cybertruck
+![StylizedPP-CT-Test](https://github.com/ymt3d/UE5-StylizedPostProcess/assets/7782271/44c9eecd-bfd8-4012-b847-2c52dbe49125)
+
 # Download
 プロジェクトファイルをそのままアップロードしています。そのまま全体をダウンロードするか、必要に応じてContent/3Dnchuフォルダからデータを抽出してください。<br>
 Project files are uploaded as is. Download the entire file as is, or extract the data from the Content/3Dnchu folder if necessary.<br>
