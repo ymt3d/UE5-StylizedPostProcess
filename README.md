@@ -25,6 +25,10 @@ https://3dnchu.com/archives/lucian-lumenssao/
 ### v1.04 Update
 ![StylizedPostProcess-UE5-v1 04](https://github.com/ymt3d/UE5-StylizedPostProcess/assets/7782271/4e12b54f-0d1a-4e47-8a78-a69f8b8f4293)
 
+### v1.08 Update
+Added CrossHatching, Kuwahara, and others that have reference videos on Youtube.<br>
+We will move some functions to Material Function in the next issue.
+
 # Download
 プロジェクトファイルをそのままアップロードしています。そのまま全体をダウンロードするか、必要に応じてContent/3Dnchuフォルダからデータを抽出してください。<br>
 Project files are uploaded as is. Download the entire file as is, or extract the data from the Content/3Dnchu folder if necessary.<br>
