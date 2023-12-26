@@ -29,6 +29,10 @@ https://3dnchu.com/archives/lucian-lumenssao/
 Added CrossHatching, Kuwahara, and others that have reference videos on Youtube.<br>
 We will move some functions to Material Function in the next issue.
 
+### v1.09 Update
+DistanceFieldShadow<br>
+SoftNormalDecal<br>
+
 # Download
 プロジェクトファイルをそのままアップロードしています。そのまま全体をダウンロードするか、必要に応じてContent/3Dnchuフォルダからデータを抽出してください。<br>
 Project files are uploaded as is. Download the entire file as is, or extract the data from the Content/3Dnchu folder if necessary.<br>
